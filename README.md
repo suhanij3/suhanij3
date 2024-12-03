@@ -24,9 +24,9 @@
 </div>
 
 <!-- <div>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRohit-Gupta-126%2FRohit-Gupta-126&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsuhanij3%2Fsuhanij3&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <h3>Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/Rohit-Gupta-126/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/suhanij3/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:Rohit-Gupta-126@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://twitter.com/Rohit-Gupta-126"><img src="https://img.shields.io/badge/twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="Rohit-Gupta-126#0572" ></a>
 </div> -->
@@ -41,12 +41,12 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <!-- <thead>
         <tr>
-            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=Rohit-Gupta-126&theme=tokyo-night" alt="Rohit-Gupta-126's contribution timeline" /></th>
+            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=suhanij3&theme=tokyo-night" alt="suhanij3's contribution timeline" /></th>
         </tr>
     </thead> -->
     <tbody>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=suhanij3&show_icons=true&locale=en&theme=tokyonight" alt="Rohit-Gupta-126's GitHub Stats" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=suhanij3&show_icons=true&locale=en&theme=tokyonight" alt="suhanij3's GitHub Stats" /></td>
             <td><img src="https://streak-stats.demolab.com/?user=suhanij3&theme=tokyonight" alt="Rohit-Gupta-126's GitHub Stats" /></td>
         </tr>
         <tr>
