@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!, I'm Suhani Jha</h1>
+<h1 align="center">Hey there! I'm Suhani Jha</h1>
 <h3 align="center">Proficient in Java & jQuery | Eager to contribute to impactful projects and drive positive change.</h3>
 <br>
 
